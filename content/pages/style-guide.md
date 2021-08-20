@@ -65,6 +65,53 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum s
 
 ## Unordered Lists
 
++ Donec non tortor in arcu mollis feugiat
++ Lorem ipsum dolor sit amet, consectetuer adipiscing elit
++ Donec id eros eget quam aliquam gravida
++ Vivamus convallis urna id felis
++ Nulla porta tempus sapien
 
+## Ordered Lists
 
+1. Donec non tortor in arcu mollis feugiat
+2. Lorem ipsum dolor sit amet, consectetuer adipiscing elit
+3. Donec id eros eget quam aliquam gravida
+4. Vivamus convallis urna id felis
+5. Nulla porta tempus sapien
 
+## Code Blocks
+
+Blocks of code are either fenced by lines with three back-ticks, or are indented with four spaces.
+
+```
+<!-- Some example CSS code -->
+body {
+  color: #333;
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+}
+```
+
+## Video Embeds
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/wEG7x7jRhNQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Tables
+
+<div class="responsive-table">
+  <table>
+    <caption>Simple table with caption and header</caption>
+    <thead>
+      <tr>
+        <th>Column 1</th>
+        <th>Column 2</th>
+        <th>Column 3</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Row 1, Cell 1</td>
+        <td>Row 1, Cell 2</td>
+        <td>Row 1, Cell 3</td>
+      </tr>
+      <tr>
