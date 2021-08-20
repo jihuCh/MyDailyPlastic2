@@ -52,19 +52,7 @@ export default class SectionPosts extends React.Component {
         const recentPosts = posts.slice(0, postsNumber);
 
         return (
-            <section id={sectionId} className="block block-posts">
-                {title && <h2 className="block-title underline inner-sm">{title}</h2>}
-                <div className="post-feed">
-                    <div className="post-feed-inside">
-                        {_.map(recentPosts, (post, index) => this.renderPost(post, index))}
-                    </div>
-                </div>
-                {!_.isEmpty(actions) && (
-                    <div className="block-buttons inner-sm">
-                        <CtaButtons actions={actions} />
-                    </div>
-                )}
-            </section>
+            
         );
     }
 }
