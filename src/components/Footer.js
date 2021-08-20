@@ -16,7 +16,7 @@ export default class Footer extends React.Component {
                 {(copyright || !_.isEmpty(links)) && (
                     <p className="site-info">
                         {copyright && (
-                            <span className="copyright">{htmlToReact(copyright)}</span>
+                            }</span>
                         )}
                         {_.map(links, (action, index) => (
                             <Action key={index} action={action} />
