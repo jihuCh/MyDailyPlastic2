@@ -15,9 +15,6 @@ export default class Footer extends React.Component {
             <footer id="colophon" className="site-footer inner-sm">
                 {(copyright || !_.isEmpty(links)) && (
                     <p className="site-info">
-                        {copyright && (
-                            }</span>
-                        )}
                         {_.map(links, (action, index) => (
                             <Action key={index} action={action} />
                         ))}
