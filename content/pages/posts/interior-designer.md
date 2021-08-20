@@ -6,7 +6,7 @@ excerpt: >-
   
 date: ''
 thumb_img_path: 
-thumb_img_alt: A wooden table and white chairs
+thumb_img_alt: 
 seo:
   title: How To Choose An Interior Designer
   description: Interior design is “the art or process of designing the interior
