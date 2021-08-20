@@ -6,13 +6,6 @@ sections:
     type: section_hero
     title: My Daily Plastic
     content: 'This website provides information about '
-  - section_id: about
-    type: section_content
-    title: About
-    actions:
-      - label: Contact Me
-        url: /contact
-        style: button
   - section_id: recent-posts
     type: section_posts
     title: Recent Posts
