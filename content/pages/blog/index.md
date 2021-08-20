@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Ways to Dispose
 seo:
   title: Blog
   description: This is the blog page
