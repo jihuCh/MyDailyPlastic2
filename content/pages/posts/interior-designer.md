@@ -5,7 +5,7 @@ subtitle: >-
 excerpt: >-
   
 date: ''
-thumb_img_path: images/1.jpg
+thumb_img_path: 
 thumb_img_alt: A wooden table and white chairs
 seo:
   title: How To Choose An Interior Designer
