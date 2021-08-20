@@ -8,7 +8,7 @@ sections:
     content: 'This website provides information about '
   - section_id: 
     type: section_posts
-    title: Recent Posts
+    title: 
     posts_number: 4
     actions:
       - label: View Blog
