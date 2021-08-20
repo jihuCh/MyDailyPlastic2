@@ -6,7 +6,8 @@ sections:
     type: section_hero
     title: "My Daily Plastic"
     content: >-
-      This website provides 
+      This website provides information about 
+      
   - section_id: about
     type: section_content
     title: About
