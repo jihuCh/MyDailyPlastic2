@@ -4,7 +4,7 @@ subtitle: >-
   
 excerpt: >-
   
-date: '2017-03-26'
+date: ''
 thumb_img_path: images/1.jpg
 thumb_img_alt: A wooden table and white chairs
 seo:
