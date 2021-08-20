@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: My Daily Plastic
     content: 'This website provides information about '
-  - section_id: recent-posts
+  - section_id: 
     type: section_posts
     title: Recent Posts
     posts_number: 4
