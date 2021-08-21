@@ -41,12 +41,3 @@ layout: page
 
 
 
-
-```
-<!-- Some example CSS code -->
-body {
-  color: #333;
-  font-family: Roboto, Helvetica, Arial, sans-serif;
-  line-height: 1.5;
-}
-
