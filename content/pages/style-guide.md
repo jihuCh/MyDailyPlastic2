@@ -1,5 +1,5 @@
 ---
-title: 
+title: Upcycling
 subtitle: >-
   
 seo:
