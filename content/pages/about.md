@@ -1,6 +1,6 @@
 ---
 title: Recycling Policies
-subtitle: This is a short page about me and my work.
+subtitle: 
 seo:
   title: About Me
   description: This is the about me page
