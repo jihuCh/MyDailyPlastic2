@@ -1,7 +1,6 @@
 ---
 title: Upcycling
-subtitle: >-
-What is upcycling?
+subtitle: What is upcycling?
 seo:
   title: Theme Style Guide
   description: A reference for suggested typographic treatment and styles for your content
