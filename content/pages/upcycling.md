@@ -1,7 +1,7 @@
 ---
 title: Upcycling
 subtitle: >-
-What is 
+What is upcycling?
   
 seo:
   title: Theme Style Guide
