@@ -34,4 +34,4 @@ seo:
 layout: page
 ---
 
-**Upcycling** is the process of 
+**Upcycling** is the process of transforming used products 
