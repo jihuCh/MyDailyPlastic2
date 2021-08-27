@@ -33,5 +33,4 @@ seo:
       relativeUrl: true
 layout: page
 ---
-
 **Upcycling** is the process of transforming used products, waste materials, useless, or unwanted products into new materials or products perceived to be of greater quality, such as artistic value or environmental value.
